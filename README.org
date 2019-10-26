@@ -2,9 +2,11 @@
 #+SUBTITLE: Datasets for language and neural studies
 
 * Eye-tracking
+** Good
    - peekbank https://peekbank.stanford.edu/docs/data-access/
      https://twitter.com/mcxfrank/status/1165049063965769728?s=20
    - Li Ping's L2 learning fmri + eye tracking
    - Listed by Eyelink
      https://www.sr-research.com/eye-tracking-blog/data-repositories-eye-tracking-research/
    - OpenEDS: Open Eye Dataset https://arxiv.org/abs/1905.03702
+** Bad
