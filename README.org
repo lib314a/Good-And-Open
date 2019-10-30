@@ -1,16 +1,15 @@
 #+TITLE: OPEN AND GOOD
 #+SUBTITLE: Datasets for language and neural studies
 
-* Eye-tracking
+* Language
 ** Good
-   - Peekbank https://peekbank.stanford.edu/docs/data-access/
-     https://twitter.com/mcxfrank/status/1165049063965769728?s=20
-   - The reading brain project: learning fmri + eye tracking, L1 and L2
-     http://blclab.org/reading_brain/
-     https://openneuro.org/datasets/ds001980/versions/1.1.0
-     https://openneuro.org/datasets/ds002151/versions/1.1.0
-   - Listed by Eyelink
-     https://www.sr-research.com/eye-tracking-blog/data-repositories-eye-tracking-research/
-   - OpenEDS: Open Eye Dataset https://arxiv.org/abs/1905.03702
+   - [[https://peekbank.stanford.edu/docs/data-access/]][Peekbank]: eye-tracking
+     [[https://twitter.com/mcxfrank/status/1165049063965769728?s=20]][Twitter]
+   - [[http://blclab.org/reading_brain/]][The reading brain project] learning fmri +
+     eye tracking, [[https://openneuro.org/datasets/ds001980/versions/1.1.0]][L1]
+     and [[https://openneuro.org/datasets/ds002151/versions/1.1.0]][L2]
+   - [[https://www.sr-research.com/eye-tracking-blog/data-repositories-eye-tracking-research/]][Listed
+     by Eyelink]
+   - OpenEDS: Open Eye Dataset [[https://arxiv.org/abs/1905.03702]][arXiv paper]
    - =eyetrackingR= bound datasets ??
 ** Bad
