@@ -2,10 +2,13 @@
 #+SUBTITLE: Datasets for language and neural studies
 
 * Language
-** Good
-   - [[https://peekbank.stanford.edu/docs/data-access/][Peekbank]]: eye-tracking ([[https://twitter.com/mcxfrank/status/1165049063965769728?s=20][Twitter]])
-   - [[http://blclab.org/reading_brain/][The reading brain project]] fMRI + eye-tracking, [[https://openneuro.org/datasets/ds001980/versions/1.1.0][L1]] and [[https://openneuro.org/datasets/ds002151/versions/1.1.0][L2]]
-   - [[https://www.sr-research.com/eye-tracking-blog/data-repositories-eye-tracking-research/][Listed by Eyelink]]
-   - OpenEDS: Open Eye Dataset [[https://arxiv.org/abs/1905.03702][(arXiv paper]])
-   - =eyetrackingR= bound datasets ??
-** Bad
+  
+  | Project                       | Task         | Method                            | Language             | PI      | Institute      | Source      | Eval.     |
+  |-------------------------------+--------------+-----------------------------------+----------------------+---------+----------------+-------------+-----------|
+  | [[http://blclab.org/reading_brain/][The reading brain project]]     | Text reading | fMRI + Eye-tracking + DTI + rsMRI | English as [[https://openneuro.org/datasets/ds001980/versions/1.1.0][L1]] and [[https://openneuro.org/datasets/ds002151/versions/1.1.0][L2]] | Li Ping | State U. Penn. |             | Excellent |
+  | [[https://peekbank.stanford.edu/docs/data-access/][Peekbank]]                      |              | Eye-tracking                      |                      |         |                | [[https://twitter.com/mcxfrank/status/1165049063965769728?s=20][Twitter]]     |           |
+  | OpenEDS                       |              | Eye-tracking                      |                      |         |                | [[https://arxiv.org/abs/1905.03702][arXiv paper]] |           |
+  | *eyetrackingR* bound datasets |              | Eye-tracking                      | ??                   | ??      | ??             | ??          |           |
+  |-------------------------------+--------------+-----------------------------------+----------------------+---------+----------------+-------------+-----------|
+  | [[https://www.sr-research.com/eye-tracking-blog/data-repositories-eye-tracking-research/][Listed by Eyelink]]             |              | Eye-tracking                      |                      |         |                |             |           |
+
